@@ -6,7 +6,7 @@ setwd("")
 # Enter IMG taxon OID code
 taxon_oid <- "3300032269"
 
-# # Import IMG .map.txt file which relates MEGAHIT contid ID with IMG scaffold ID
+# # Import IMG .map.txt file which relates MEGAHIT contig ID with IMG scaffold ID
 # img_map <- read.delim(file = paste0(taxon_oid, ".a.map.txt"), header = FALSE,
 #                       sep = "\t", quote = "", stringsAsFactors = FALSE)
 # colnames(img_map) <- c("megahit_contig_id", "img_scaffold_id")
@@ -41,3 +41,9 @@ extract_scaffold_id <- function(gene_id) {
 img_cog$scaffold_id <- sapply(X = img_cog[,"gene_id"], FUN = extract_scaffold_id)
 img_ko$scaffold_id <- sapply(X = img_ko[,"gene_id"], FUN = extract_scaffold_id)
 
+# Import COGs table
+cogs <- read.csv(file = "/metagenomicon/data/cogs.csv", header = TRUE, stringsAsFactors = FALSE)
+colnames(cogs)[1] <- "cog_id"
+
+# COG annotations
+img_cog_annotated <- merge(x = img_cog, y = cogs, by = "cog_id", all.x = TRUE)
