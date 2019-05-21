@@ -37,11 +37,18 @@ extract_scaffold_id <- function(gene_id) {
   return(scaffold_id)
 }
 img_cog <- img_cog %>% mutate(scaffold_id = extract_scaffold_id(gene_id))
+img_cog <- left_join(x = img_cog, y = img_depth, by = c("scaffold_id" = "ID"))
 img_ko <- img_ko %>% mutate(scaffold_id = extract_scaffold_id(gene_id))
+img_ko <- left_join(x = img_ko, y = img_depth, by = c("scaffold_id" = "ID"))
 
 # Import COGs table
 cogs <- read_csv(file = "C:/Users/Gandalf/Projects/metagenomicon/data/cogs.csv",
                  col_names = TRUE, trim_ws = TRUE)
 
 # COG annotations
-img_cog <- img_cog %>% left_join(x = img_cog, y = cogs, by = "cog_id")
+img_cog <- left_join(x = img_cog, y = cogs, by = "cog_id")
+
+# Visualize COG profile
+# img_cog %>%
+#   ggplot(aes(x = functional_category, y = AvgFold, fill = cog_category)) +
+#   geom_bar(stat = "identity")
