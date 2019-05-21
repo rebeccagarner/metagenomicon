@@ -1,7 +1,6 @@
 # Scaffold functional profiling using tidyverse
 
-library(readr)
-library(dplyr)
+library(tidyverse)
 
 # Set working directory to folder containing IMG download
 setwd("")
