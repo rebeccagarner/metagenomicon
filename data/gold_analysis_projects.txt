@@ -1,0 +1,114 @@
+GOLD Analysis Project ID	Analysis Project Name	Analysis Project Type	Add Date
+Ga0359900	Microbial communities from the Atlantic Highlands Ecozone, Canada. Combined Assembly of Gp0356617, Gp0356616, Gp0356587	Combined Assembly	2019-01-13
+Ga0346718	Microbial communities from the Atlantic Highlands Ecozone, Canada. Combined Assembly of Gp0356615, Gp0356614, Gp0356580	Combined Assembly	2019-01-04
+Ga0346702	Microbial communities from the Boreal Shield Ecozone, Canada. Combined Assembly of Gp0356613, Gp0356612, Gp0356506	Combined Assembly	2019-01-04
+Ga0346524	Sediment microbial communities from the Mixedwood Plains Ecozone, Canada - bottom sediment 08-148	Metagenome Analysis	2019-01-04
+Ga0346514	Sediment microbial communities from the Mixedwood Plains Ecozone, Canada - top sediment 08-148	Metagenome Analysis	2019-01-04
+Ga0346509	Sediment microbial communities from the Atlantic Highlands Ecozone, Canada - bottom sediment 17-067	Metagenome Analysis	2019-01-04
+Ga0346508	Sediment microbial communities from the Atlantic Highlands Ecozone, Canada - top sediment 17-067	Metagenome Analysis	2019-01-04
+Ga0346507	Sediment microbial communities from the Atlantic Highlands Ecozone, Canada - bottom sediment 17-054	Metagenome Analysis	2019-01-04
+Ga0346506	Sediment microbial communities from the Atlantic Highlands, Canada - top sediment 17-054	Metagenome Analysis	2019-01-04
+Ga0346505	Sediment microbial communities from the Boreal Shield Ecozone, Canada - bottom sediment 06-126	Metagenome Analysis	2019-01-04
+Ga0346504	Sediment microbial communities from the Boreal Shield Ecozone, Canada - top sediment 06-126	Metagenome Analysis	2019-01-04
+Ga0336681	Sediment microbial communities from the Atlantic Maritime Ecozone, Canada - bottom sediment 07-025	Metagenome Analysis	2018-12-23
+Ga0336680	Sediment microbial communities from the Atlantic Maritime Ecozone, Canada - top sediment 07-025	Metagenome Analysis	2018-12-22
+Ga0335337	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-116	Metagenome Analysis	2018-12-17
+Ga0335336	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-113	Metagenome Analysis	2018-12-17
+Ga0335335	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-112	Metagenome Analysis	2018-12-17
+Ga0335334	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-107	Metagenome Analysis	2018-12-17
+Ga0335333	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-098	Metagenome Analysis	2018-12-17
+Ga0335332	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-093	Metagenome Analysis	2018-12-17
+Ga0335331	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-091	Metagenome Analysis	2018-12-17
+Ga0335330	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-090	Metagenome Analysis	2018-12-17
+Ga0335329	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-086	Metagenome Analysis	2018-12-17
+Ga0335328	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-077	Metagenome Analysis	2018-12-17
+Ga0335327	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-074	Metagenome Analysis	2018-12-17
+Ga0335326	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-073	Metagenome Analysis	2018-12-17
+Ga0335325	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-072	Metagenome Analysis	2018-12-17
+Ga0335324	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-067	Metagenome Analysis	2018-12-17
+Ga0335323	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-065	Metagenome Analysis	2018-12-17
+Ga0335322	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-063	Metagenome Analysis	2018-12-17
+Ga0335321	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-061	Metagenome Analysis	2018-12-17
+Ga0335320	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-060	Metagenome Analysis	2018-12-17
+Ga0335319	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-058	Metagenome Analysis	2018-12-17
+Ga0335318	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-056	Metagenome Analysis	2018-12-17
+Ga0335317	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-054	Metagenome Analysis	2018-12-17
+Ga0335316	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 17-050	Metagenome Analysis	2018-12-17
+Ga0335315	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-043	Metagenome Analysis	2018-12-17
+Ga0335314	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-027	Metagenome Analysis	2018-12-17
+Ga0335313	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 17-018	Metagenome Analysis	2018-12-17
+Ga0335312	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-219	Metagenome Analysis	2018-12-17
+Ga0335311	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-216	Metagenome Analysis	2018-12-17
+Ga0335310	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-212	Metagenome Analysis	2018-12-17
+Ga0335309	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-210	Metagenome Analysis	2018-12-17
+Ga0335308	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-197	Metagenome Analysis	2018-12-17
+Ga0335307	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-194	Metagenome Analysis	2018-12-17
+Ga0335306	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-193	Metagenome Analysis	2018-12-17
+Ga0335305	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-189	Metagenome Analysis	2018-12-17
+Ga0335304	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-188	Metagenome Analysis	2018-12-17
+Ga0335303	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-186	Metagenome Analysis	2018-12-17
+Ga0335302	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-184	Metagenome Analysis	2018-12-17
+Ga0335301	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-183	Metagenome Analysis	2018-12-17
+Ga0335300	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-180	Metagenome Analysis	2018-12-17
+Ga0335299	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-179	Metagenome Analysis	2018-12-17
+Ga0335298	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-168	Metagenome Analysis	2018-12-17
+Ga0335297	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-164	Metagenome Analysis	2018-12-17
+Ga0335296	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-160	Metagenome Analysis	2018-12-17
+Ga0335295	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-157	Metagenome Analysis	2018-12-17
+Ga0335294	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-155	Metagenome Analysis	2018-12-17
+Ga0335293	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-152	Metagenome Analysis	2018-12-17
+Ga0335292	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-144	Metagenome Analysis	2018-12-17
+Ga0335291	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 08-138	Metagenome Analysis	2018-12-17
+Ga0335290	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-135	Metagenome Analysis	2018-12-17
+Ga0335289	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-134	Metagenome Analysis	2018-12-17
+Ga0335288	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-120	Metagenome Analysis	2018-12-17
+Ga0335287	Freshwater microbial communities from the Mixedwood Plains Ecozone, Canada - Lake 08-097	Metagenome Analysis	2018-12-17
+Ga0335286	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-057	Metagenome Analysis	2018-12-17
+Ga0335285	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-055	Metagenome Analysis	2018-12-17
+Ga0335284	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-051	Metagenome Analysis	2018-12-17
+Ga0335283	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-049	Metagenome Analysis	2018-12-17
+Ga0335282	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-047	Metagenome Analysis	2018-12-17
+Ga0335281	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-040	Metagenome Analysis	2018-12-17
+Ga0335280	Freshwater microbial communities from the Atlantic Highlands Ecozone, Canada - Lake 07-033	Metagenome Analysis	2018-12-17
+Ga0335279	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-032	Metagenome Analysis	2018-12-17
+Ga0335278	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-031	Metagenome Analysis	2018-12-17
+Ga0335277	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-030	Metagenome Analysis	2018-12-17
+Ga0335276	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-029	Metagenome Analysis	2018-12-17
+Ga0335275	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-028	Metagenome Analysis	2018-12-17
+Ga0335274	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-026	Metagenome Analysis	2018-12-17
+Ga0335273	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-022	Metagenome Analysis	2018-12-17
+Ga0335272	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-021	Metagenome Analysis	2018-12-17
+Ga0335271	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-015	Metagenome Analysis	2018-12-17
+Ga0335270	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-014	Metagenome Analysis	2018-12-17
+Ga0335269	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-011	Metagenome Analysis	2018-12-17
+Ga0335268	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-010	Metagenome Analysis	2018-12-17
+Ga0335267	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-009	Metagenome Analysis	2018-12-17
+Ga0335266	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-008	Metagenome Analysis	2018-12-17
+Ga0335265	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-007	Metagenome Analysis	2018-12-17
+Ga0335264	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-006	Metagenome Analysis	2018-12-17
+Ga0335263	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-003	Metagenome Analysis	2018-12-17
+Ga0335262	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-002	Metagenome Analysis	2018-12-17
+Ga0335261	Freshwater microbial communities from the Atlantic Maritime Ecozone, Canada - Lake 07-001	Metagenome Analysis	2018-12-17
+Ga0335260	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-220	Metagenome Analysis	2018-12-17
+Ga0335259	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-217	Metagenome Analysis	2018-12-17
+Ga0335258	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-199	Metagenome Analysis	2018-12-17
+Ga0335257	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-198	Metagenome Analysis	2018-12-17
+Ga0335256	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-196	Metagenome Analysis	2018-12-17
+Ga0335255	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-174	Metagenome Analysis	2018-12-17
+Ga0335254	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-167	Metagenome Analysis	2018-12-17
+Ga0335253	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-161	Metagenome Analysis	2018-12-17
+Ga0335252	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-156	Metagenome Analysis	2018-12-17
+Ga0335251	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-142	Metagenome Analysis	2018-12-17
+Ga0335250	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-141	Metagenome Analysis	2018-12-17
+Ga0335249	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-140	Metagenome Analysis	2018-12-17
+Ga0335248	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-136	Metagenome Analysis	2018-12-17
+Ga0335247	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-132	Metagenome Analysis	2018-12-17
+Ga0335246	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-131	Metagenome Analysis	2018-12-17
+Ga0335245	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-129	Metagenome Analysis	2018-12-17
+Ga0335244	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-127	Metagenome Analysis	2018-12-17
+Ga0335243	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-126	Metagenome Analysis	2018-12-17
+Ga0335242	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-104	Metagenome Analysis	2018-12-17
+Ga0335241	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-102	Metagenome Analysis	2018-12-17
+Ga0335240	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-095	Metagenome Analysis	2018-12-17
+Ga0335239	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-080	Metagenome Analysis	2018-12-17
+Ga0326505	Freshwater microbial communities from the Boreal Shield Ecozone, Canada - Lake 06-071	Metagenome Analysis	2018-11-20
