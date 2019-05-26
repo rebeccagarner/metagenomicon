@@ -54,3 +54,10 @@ img_projects <- read_tsv(file = "data/gold_analysis_projects.txt", col_names = T
   rename(project_id = `GOLD Analysis Project ID`,
          project_name = `Analysis Project Name`,
          project_type = `Analysis Project Type`)
+
+
+# Create sample by COG matrix
+sample_by_cog <- img_cog %>%
+  group_by(project_id, cog_id) %>%
+  summarize(avg_cov = sum(AvgFold)) %>%
+  spread(cog_id, avg_cov, fill = 0)
